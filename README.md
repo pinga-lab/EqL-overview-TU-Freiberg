@@ -10,6 +10,6 @@ transformations usually performed via equivalent layer.
 
 ## License
 
-All slides are made available under a MIT license. You can freely
+All slides are made available under a [CC-BY-4.0](https://choosealicense.com/licenses/cc-by-4.0/) license. You can freely
 use and modify them, without warranty, so long as you provide attribution
 to the author. See `LICENSE.md` for the full license text.
