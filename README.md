@@ -8,6 +8,9 @@ focused on the theoretical aspects supporting the potential-field
 transformations usually performed via equivalent layer.
 
 
+<img src='continuous-EqL.png'>
+
+
 ## License
 
 All slides are made available under a [CC-BY-4.0](https://choosealicense.com/licenses/cc-by-4.0/) license. You can freely
