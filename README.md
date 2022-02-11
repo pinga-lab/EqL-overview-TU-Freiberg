@@ -7,6 +7,8 @@ of the TU Bergakademie Freiberg, Germany. The presentation is
 focused on the theoretical aspects supporting the potential-field
 transformations usually performed via equivalent layer.
 
+*An archived version of this repo can be found at:* https://doi.org/10.6084/m9.figshare.19158554.v1
+
 
 <img src='continuous-EqL.png'>
 
